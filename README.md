@@ -42,7 +42,7 @@ You *MUST have the following environment and software installed:
 * 04/29/2013 - I will finish tutorial 2 as time permits. Finish meaning I will port it to ruby ofcourse.  
 
 ## To Do
-* Port the remainder of COrelans tutorial from perl to ruby (as time permits).
+* Port the remainder of Corelans tutorial from perl to ruby (as time permits).
 
 ## Credits
 * Rick Flores (nanotechz9l) -- 0xnanoquetz9l[--at--]gmail.com
